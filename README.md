@@ -1,5 +1,4 @@
 # Git-Commands
-# git-reference
 
 > Git command reference
 - [terminal](#terminal)
